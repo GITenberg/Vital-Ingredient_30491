@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32106'
     url: http://www.gutenberg.org/2009/agents/32106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30491#Vital-Ingredient
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-11-17'
 gutenberg_type: Text
